@@ -7,7 +7,9 @@
       <e p="CSharp_Client" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Client.cs" t="Include" />
+        <e p="ConnectionChecker.cs" t="Include" />
         <e p="CSharp_Client.csproj" t="IncludeRecursive" />
+        <e p="InputThread.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
